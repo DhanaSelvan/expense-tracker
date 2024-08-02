@@ -51,15 +51,6 @@ button {
 button:hover {
     background-color: #218838;
 }
-/* table,th,tr,td{
-    border-collapse: collapse;
-    border: solid 1px rgb(80, 78, 78);
-    padding: 10px 30px;
-    
-} */
-/* th{
-    background-color: #ddd;
-} */
 
 ul {
     list-style-type: none;
